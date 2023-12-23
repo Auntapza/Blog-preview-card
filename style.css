@@ -56,14 +56,14 @@ body {
     margin-bottom: 1.4rem;
 }
 
-.card-body > h1:hover {
-    color: hsl(47, 88%, 63%);
-}
-
 .card-body > h1 {
     font-size: 30px;
     margin-bottom: 1.4rem;
     cursor: pointer;
+}
+
+.card-body > h1:hover {
+    color: hsl(47, 88%, 63%);
 }
 
 .card-body > p {
