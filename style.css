@@ -63,7 +63,7 @@ body {
 .card-body > h1 {
     font-size: 30px;
     margin-bottom: 1.4rem;
-    curser: pointer;
+    cursor: pointer;
 }
 
 .card-body > p {
